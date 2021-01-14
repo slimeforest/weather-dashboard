@@ -1,0 +1,33 @@
+#searchButton{
+    background-color: #1f619e;
+    color: white;
+    border-radius: 5px; 
+    margin-top: 10px;
+}
+
+.listbtn{
+    background-color: #1f619e;
+    color: white;
+    border-radius: 5px; 
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#page_header{
+    text-align: center;
+    background-color:#1f619e;
+    color: white
+}
+
+.card-body{
+    background-color: #1f619e;
+    color: white;
+}
+
+.left_div{
+    height: 100%; 
+}
+
