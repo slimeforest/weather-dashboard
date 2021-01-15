@@ -1,8 +1,13 @@
 # weather-dashboard
+For this assignment we were tasked with building a basic webite that allowed a user to input a search for a specific city to pull up weather data using the Open Weather Map Api then adding it to the HTML.
 
+Repo Link:
+https://github.com/slimeforest/weather-dashboard
+
+Live website link:
+https://slimeforest.github.io/weather-dashboard/
 
 Images:
-
-![page shown on first start up](screenshots/first search.png)
-![first search for a city that you do](screenshots/first search.png)
-![second search for a city that you do](screenshots/second search.png)
+![index first on first load](screenshots/index.png)
+![first city search](screenshots/first search.png)
+![second city search](screenshots/second search.png)
