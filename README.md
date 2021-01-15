@@ -9,5 +9,7 @@ https://slimeforest.github.io/weather-dashboard/
 
 Images:
 ![index first on first load](screenshots/index.png)
-![first city search](screenshots/first search.png)
-![second city search](screenshots/second search.png)
+
+![first city search](screenshots/first-search.png)
+
+![second city search](screenshots/second-search.png)
